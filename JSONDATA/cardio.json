@@ -1,0 +1,263 @@
+[
+  {
+    "Exercise_Name": "Rope Jumping",
+    "Rating": 9.2,
+    "Equipment_Type": "Other",
+    "Muscle_Targeted": "Quadriceps",
+    "Image_URL_One": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/651/Male/m/651_1.jpg",
+    "Image_URL_Two": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/651/Male/m/651_2.jpg",
+    "URL": "https://www.bodybuilding.com/exercises/rope-jumping"
+  },
+  {
+    "Exercise_Name": "Step Mill",
+    "Rating": 9.1,
+    "Equipment_Type": "Machine",
+    "Muscle_Targeted": "Quadriceps",
+    "Image_URL_One": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/656/Male/m/656_1.jpg",
+    "Image_URL_Two": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/656/Male/m/656_2.jpg",
+    "URL": "https://www.bodybuilding.com/exercises/step-mill"
+  },
+  {
+    "Exercise_Name": "Bicycling",
+    "Rating": 8.9,
+    "Equipment_Type": "Other",
+    "Muscle_Targeted": "Quadriceps",
+    "Image_URL_One": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/646/Male/m/646_1.jpg",
+    "Image_URL_Two": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/646/Male/m/646_2.jpg",
+    "URL": "https://www.bodybuilding.com/exercises/bicycling"
+  },
+  {
+    "Exercise_Name": "Rowing, Stationary",
+    "Rating": 8.9,
+    "Equipment_Type": "Machine",
+    "Muscle_Targeted": "Quadriceps",
+    "Image_URL_One": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/652/Male/m/652_1.jpg",
+    "Image_URL_Two": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/652/Male/m/652_2.jpg",
+    "URL": "https://www.bodybuilding.com/exercises/rowing-stationary"
+  },
+  {
+    "Exercise_Name": "Elliptical Trainer",
+    "Rating": 8.8,
+    "Equipment_Type": "Machine",
+    "Muscle_Targeted": "Quadriceps",
+    "Image_URL_One": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/648/Male/m/648_1.jpg",
+    "Image_URL_Two": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/648/Male/m/648_2.jpg",
+    "URL": "https://www.bodybuilding.com/exercises/elliptical-trainer"
+  },
+  {
+    "Exercise_Name": "Stairmaster",
+    "Rating": 8.8,
+    "Equipment_Type": "Machine",
+    "Muscle_Targeted": "Quadriceps",
+    "Image_URL_One": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/655/Male/m/655_1.jpg",
+    "Image_URL_Two": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/655/Male/m/655_2.jpg",
+    "URL": "https://www.bodybuilding.com/exercises/stairmaster"
+  },
+  {
+    "Exercise_Name": "Burpee",
+    "Rating": 8.8,
+    "Equipment_Type": "Body Only",
+    "Muscle_Targeted": "Quadriceps",
+    "Image_URL_One": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/3153/Male/m/3153_1.jpg",
+    "Image_URL_Two": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/3153/Male/m/3153_2.jpg",
+    "URL": "https://www.bodybuilding.com/exercises/burpee"
+  },
+  {
+    "Exercise_Name": "Trail Running/Walking",
+    "Rating": 8.7,
+    "Equipment_Type": "None",
+    "Muscle_Targeted": "Quadriceps",
+    "Image_URL_One": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/657/Male/m/657_1.jpg",
+    "Image_URL_Two": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/657/Male/m/657_2.jpg",
+    "URL": "https://www.bodybuilding.com/exercises/trail-runningwalking"
+  },
+  {
+    "Exercise_Name": "Skating",
+    "Rating": 8.4,
+    "Equipment_Type": "Other",
+    "Muscle_Targeted": "Quadriceps",
+    "Image_URL_One": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/654/Male/m/654_1.jpg",
+    "Image_URL_Two": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/654/Male/m/654_2.jpg",
+    "URL": "https://www.bodybuilding.com/exercises/skating"
+  },
+  {
+    "Exercise_Name": "Jog In Place",
+    "Rating": 8.4,
+    "Equipment_Type": "Body Only",
+    "Muscle_Targeted": "Quadriceps",
+    "Image_URL_One": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/2963/Male/m/2963_1.jpg",
+    "Image_URL_Two": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/2963/Male/m/2963_2.jpg",
+    "URL": "https://www.bodybuilding.com/exercises/jog-in-place"
+  },
+  {
+    "Exercise_Name": "Running, Treadmill",
+    "Rating": 8.4,
+    "Equipment_Type": "Machine",
+    "Muscle_Targeted": "Quadriceps",
+    "Image_URL_One": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/653/Male/m/653_1.jpg",
+    "Image_URL_Two": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/653/Male/m/653_2.jpg",
+    "URL": "https://www.bodybuilding.com/exercises/running-treadmill"
+  },
+  {
+    "Exercise_Name": "Bicycling, Stationary",
+    "Rating": 8.3,
+    "Equipment_Type": "Machine",
+    "Muscle_Targeted": "Quadriceps",
+    "Image_URL_One": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/647/Male/m/647_1.jpg",
+    "Image_URL_Two": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/647/Male/m/647_2.jpg",
+    "URL": "https://www.bodybuilding.com/exercises/bicycling-stationary"
+  },
+  {
+    "Exercise_Name": "Jogging-Treadmill",
+    "Rating": 8.3,
+    "Equipment_Type": "Machine",
+    "Muscle_Targeted": "Quadriceps",
+    "Image_URL_One": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/649/Male/m/649_1.jpg",
+    "Image_URL_Two": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/649/Male/m/649_2.jpg",
+    "URL": "https://www.bodybuilding.com/exercises/jogging-treadmill"
+  },
+  {
+    "Exercise_Name": "Recumbent Bike",
+    "Rating": 8.2,
+    "Equipment_Type": "Machine",
+    "Muscle_Targeted": "Quadriceps",
+    "Image_URL_One": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/650/Male/m/650_1.jpg",
+    "Image_URL_Two": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/650/Male/m/650_2.jpg",
+    "URL": "https://www.bodybuilding.com/exercises/recumbent-bike"
+  },
+  {
+    "Exercise_Name": "Walking, Treadmill",
+    "Rating": 8.2,
+    "Equipment_Type": "Machine",
+    "Muscle_Targeted": "Quadriceps",
+    "Image_URL_One": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/658/Male/m/658_1.jpg",
+    "Image_URL_Two": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/658/Male/m/658_2.jpg",
+    "URL": "https://www.bodybuilding.com/exercises/walking-treadmill"
+  },
+  {
+    "Exercise_Name": "Butt Kicks",
+    "Rating": 8.2,
+    "Equipment_Type": "Body Only",
+    "Muscle_Targeted": "Quadriceps",
+    "Image_URL_One": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/3143/Male/m/3143_1.jpg",
+    "Image_URL_Two": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/3143/Male/m/3143_2.jpg",
+    "URL": "https://www.bodybuilding.com/exercises/butt-kicks"
+  },
+  {
+    "Exercise_Name": "Walking High Knees",
+    "Rating": 7.8,
+    "Equipment_Type": "Body Only",
+    "Muscle_Targeted": "Quadriceps",
+    "Image_URL_One": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/3053/Male/m/3053_1.jpg",
+    "Image_URL_Two": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/3053/Male/m/3053_2.jpg",
+    "URL": "https://www.bodybuilding.com/exercises/walking-high-knees"
+  },
+  {
+    "Exercise_Name": "Prowler Sprint",
+    "Rating": 7.4,
+    "Equipment_Type": "Other",
+    "Muscle_Targeted": "Hamstrings",
+    "Image_URL_One": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/1331/Male/m/1331_1.jpg",
+    "Image_URL_Two": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/1331/Male/m/1331_2.jpg",
+    "URL": "https://www.bodybuilding.com/exercises/prowler-sprint"
+  },
+  {
+    "Exercise_Name": "Punches",
+    "Rating": "n/a",
+    "Equipment_Type": "Body Only",
+    "Muscle_Targeted": "Shoulders",
+    "Image_URL_One": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/3043/Male/m/3043_1.jpg",
+    "Image_URL_Two": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/3043/Male/m/3043_2.jpg",
+    "URL": "https://www.bodybuilding.com/exercises/punches"
+  },
+  {
+    "Exercise_Name": "Slow Jog",
+    "Rating": "n/a",
+    "Equipment_Type": "Body Only",
+    "Muscle_Targeted": "Quadriceps",
+    "Image_URL_One": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/3083/Male/m/3083_1.jpg",
+    "Image_URL_Two": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/3083/Male/m/3083_2.jpg",
+    "URL": "https://www.bodybuilding.com/exercises/slow-jog"
+  },
+  {
+    "Exercise_Name": "Defensive Slide",
+    "Rating": "n/a",
+    "Equipment_Type": "Body Only",
+    "Muscle_Targeted": "Quadriceps",
+    "Image_URL_One": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/3093/Male/m/3093_1.jpg",
+    "Image_URL_Two": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/3093/Male/m/3093_2.jpg",
+    "URL": "https://www.bodybuilding.com/exercises/defensive-slide"
+  },
+  {
+    "Exercise_Name": "Lateral Speed Step",
+    "Rating": "n/a",
+    "Equipment_Type": "Body Only",
+    "Muscle_Targeted": "Quadriceps",
+    "Image_URL_One": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/3173/Male/m/3173_1.jpg",
+    "Image_URL_Two": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/3173/Male/m/3173_2.jpg",
+    "URL": "https://www.bodybuilding.com/exercises/lateral-speed-step"
+  },
+  {
+    "Exercise_Name": "Double Under",
+    "Rating": "n/a",
+    "Equipment_Type": "Other",
+    "Muscle_Targeted": "Quadriceps",
+    "Image_URL_One": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5043/Male/m/5043_1.jpg",
+    "Image_URL_Two": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5043/Male/m/5043_2.jpg",
+    "URL": "https://www.bodybuilding.com/exercises/double-under"
+  },
+  {
+    "Exercise_Name": "Jumping Jack",
+    "Rating": "n/a",
+    "Equipment_Type": "Body Only",
+    "Muscle_Targeted": "Quadriceps",
+    "Image_URL_One": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5063/Male/m/5063_1.jpg",
+    "Image_URL_Two": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5063/Male/m/5063_2.jpg",
+    "URL": "https://www.bodybuilding.com/exercises/jumping-jack"
+  },
+  {
+    "Exercise_Name": "Bear Crawl Fire Feet",
+    "Rating": "n/a",
+    "Equipment_Type": "Body Only",
+    "Muscle_Targeted": "Shoulders",
+    "Image_URL_One": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5363/Male/m/5363_1.jpg",
+    "Image_URL_Two": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5363/Male/m/5363_2.jpg",
+    "URL": "https://www.bodybuilding.com/exercises/bear-crawl-fire-feet"
+  },
+  {
+    "Exercise_Name": "Fast Kick With Arm Circles",
+    "Rating": "n/a",
+    "Equipment_Type": "Body Only",
+    "Muscle_Targeted": "Quadriceps",
+    "Image_URL_One": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/2983/Male/m/2983_1.jpg",
+    "Image_URL_Two": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/2983/Male/m/2983_2.jpg",
+    "URL": "https://www.bodybuilding.com/exercises/fast-kick-with-arm-circles"
+  },
+  {
+    "Exercise_Name": "Football Up-Down",
+    "Rating": "n/a",
+    "Equipment_Type": "Body Only",
+    "Muscle_Targeted": "Quadriceps",
+    "Image_URL_One": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/2993/Male/m/2993_1.jpg",
+    "Image_URL_Two": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/2993/Male/m/2993_2.jpg",
+    "URL": "https://www.bodybuilding.com/exercises/football-up-down"
+  },
+  {
+    "Exercise_Name": "Vertical Mountain Climber",
+    "Rating": "n/a",
+    "Equipment_Type": "Body Only",
+    "Muscle_Targeted": "Quadriceps",
+    "Image_URL_One": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/3013/Male/m/3013_1.jpg",
+    "Image_URL_Two": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/3013/Male/m/3013_2.jpg",
+    "URL": "https://www.bodybuilding.com/exercises/vertical-mountain-climber"
+  },
+  {
+    "Exercise_Name": "High Knee Jog",
+    "Rating": "n/a",
+    "Equipment_Type": "Body Only",
+    "Muscle_Targeted": "Quadriceps",
+    "Image_URL_One": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/3183/Male/m/3183_1.jpg",
+    "Image_URL_Two": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/3183/Male/m/3183_2.jpg",
+    "URL": "https://www.bodybuilding.com/exercises/high-knee-jog"
+  }
+]
